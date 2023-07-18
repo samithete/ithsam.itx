@@ -1,13 +1,12 @@
-# Hello, my name is Gustavo Martin Vela!
+# Hello, my name is Shafishuna Iithete!
 ### Data Scientist and Data Engineer
 
 I'm professional Data Engineer / Scientist (more focusing in engineering than in models)
-with more than 10 years of experience in different multinational companies.
+with more than 3 years of experience in different multinational companies.
 Deploying and integrating Data Driven applications in tech, telco, retail and insurance fields.
 Working in different cloud environments to deploy the best possible solutions.
 Always trying to learn news things related to data and hardware.    
-
-I'm currently working on INDITEX DATA, helping INDITEX to understand the data and deploying E2E data solutions.    
+   
 
 <!--
 https://ileriayo.github.io/markdown-badges/
@@ -40,5 +39,5 @@ https://ileriayo.github.io/markdown-badges/
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/hello@gustavomart.in-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](hello@gustavomart.in)
+[![Email](https://img.shields._personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](ithsam001@gmail.com)
 </br>
