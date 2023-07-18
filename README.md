@@ -40,5 +40,5 @@ https://ileriayo.github.io/markdown-badges/
 ## Contact:
 
 
-[![Email](https://img.shields.io/badge/ithsam001@gmail.com.in-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](ithsam001@gmail.com.in)
+[![Email](https://img.shields.io/badge/ithsam001@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](ithsam001@gmail.com)
 </br>
